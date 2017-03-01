@@ -1,0 +1,20 @@
+nodename,accountname,beginning_balance,ending_balance,change
+A1,Cash,9095,331,-8764
+A2,A/R,2342,4019,1677
+A3,Inventories,25279,53051,27772
+A4,Prepaid expenses,456,2729,2273
+A5,Prepaid catalog costs,1375,2794,1419
+A6,deferred catalog costs,3347,7020,3673
+A7,PPE,20080,26661,6581
+A8,Executive loans,0,1620,1620
+A9,Revolving line of credit,0,-10264,-10264
+A10,A/P,-18061,-27275,-9214
+A11,Accrued liabilities,-5969,-10517,-4548
+A12,Income tax payable,-451,0,451
+A13,Deferred income taxes (current),-76,-919,-843
+A14,Deferred income taxes (non-current),-230,-375,-145
+A19,Net Sales,0,-246697,-246697
+A20,Cost of Sales,0,120126,120126
+A21,SG&A,0,107083,107083
+A22,Interest income (net),0,57,57
+A23,Provision for income taxes,0,7857,7857

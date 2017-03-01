@@ -1,0 +1,15 @@
+nodename,description,beg_balance,end_balance,change
+A1,Cash,135,180,45
+A2,Accounts Receivable,145,275,130
+A3,Inventory,90,55,-35
+A4,Prepaid Expenses,30,0,-30
+A5,PPE,215,210,-5
+A6,Intangibles,70,60,-10
+A7,Accounts payable,-75,-150,-75
+A8,Accrued liabilities,-50,-5,45
+A9,Provisions,-60,-75,-15
+A10,Long-term debt,-120,-140,-20
+A11,Sales,0,-270,-270
+A12,Cost of Sales,0,180,180
+A13,"Selling, General & Administrative",0,50,50
+A14,Tax expense,0,10,10
